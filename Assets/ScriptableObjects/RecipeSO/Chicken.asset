@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dccc656cc1a9dc41a963bb0ef05aa8a, type: 3}
+  m_Name: Chicken
+  m_EditorClassIdentifier: 
+  kitchenObjectsOSList:
+  - {fileID: 11400000, guid: 1c76a09a86472364f9c76c28dd348b84, type: 2}
+  recipeName: rosted chicken
+  isRecipe: 0
+  RecipekitchenObjectsOSList:
+  - {fileID: 11400000, guid: 5a80369b389b9424fb22a46fd6492eaa, type: 2}
+  - {fileID: 11400000, guid: b3bc17cf71a4e0149aba1ee007db2c4b, type: 2}
+  - {fileID: 11400000, guid: 610e9c795ba745349a6d038fa6fa8037, type: 2}
